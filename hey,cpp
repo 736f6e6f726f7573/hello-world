@@ -6,6 +6,10 @@ ios::sync_with_stdio(0);
 cin.tie(0);
 cout.tie(0);
 cout<<"hello world\n";
+cout<<"hello sweetie\n";
+cout<<"you are a real star boy\n";
+cout<<"racheal is sweet\n";
+
 
 
 return 0;
