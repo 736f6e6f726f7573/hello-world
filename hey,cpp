@@ -5,6 +5,8 @@ int main()
 {
 cout<<"hello world\n";
 cout<<"hello sweetie\n";
+cout<<"you are a real star boy\n";
+
 
 
 return 0;
