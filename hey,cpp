@@ -1,3 +1,5 @@
+//comments are necessary to let people know what project you are working with
+
 #include<bits/stdc++.h>
 using namespace std;
 int main()
