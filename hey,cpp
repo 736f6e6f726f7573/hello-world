@@ -4,6 +4,10 @@ using namespace std;
 int main()
 {
 cout<<"hello world\n";
+cout<<"hello sweetie\n";
+cout<<"you are a real star boy\n";
+cout<<"racheal is sweet\n";
+
 
 
 return 0;
