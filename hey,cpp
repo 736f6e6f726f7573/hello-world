@@ -1,11 +1,19 @@
+//comments are necessary to let people know what project you are working with
+
 #include<bits/stdc++.h>
 using namespace std;
 int main()
 {
 ios::sync_with_stdio(0);
+//syncs to the stdio
 cin.tie(0);
 cout.tie(0);
 cout<<"hello world\n";
+cout<<"hello sweetie\n";
+cout<<"you are a real star boy\n";
+
+cout<<"racheal is sweet\n";
+
 
 
 return 0;
